@@ -1,4 +1,5 @@
 👋 Hi there, I'm Rakha Athallah Syahputra!
+
 🎓 Digital Business Student | 💻 Data Enthusiast | 🌟 Passionate Innovator
 
 Welcome to my GitHub! I’m a third-year Digital Business student at Universitas Negeri Jakarta, with a deep passion for data analytics, programming, and business innovation. I enjoy solving complex problems and turning ideas into impactful solutions through technology.
